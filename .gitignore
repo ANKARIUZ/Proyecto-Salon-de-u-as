@@ -1,0 +1,23 @@
+# Entornos virtuales
+Web/
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Archivos de configuración o secretos
+.env
+.DS_Store
+
+# Editor y sistema
+.vscode/
+.idea/
+*.bak
+
+# Ignorar variables de entorno
+.env
